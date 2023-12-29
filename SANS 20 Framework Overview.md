@@ -17,5 +17,6 @@ Our mission is crystal-clear — fortify our cybersecurity framework through met
 
 Elevate Threat Detection 🛡️
 Strengthen Incident Response 🤖
+
 Empower SOC Analysts 👩‍💼👨‍💼
 Proactively Adapt & Defend 🛡️
